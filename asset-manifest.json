@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/theravi04/MovieVerse/static/css/main.9a119cd7.css",
+    "main.js": "/theravi04/MovieVerse/static/js/main.108d7dbf.js",
+    "index.html": "/theravi04/MovieVerse/index.html",
+    "static/media/Search.svg": "/theravi04/MovieVerse/static/media/Search.d166e4b71800fb27f9ae8ac5c76e4b27.svg",
+    "main.9a119cd7.css.map": "/theravi04/MovieVerse/static/css/main.9a119cd7.css.map",
+    "main.108d7dbf.js.map": "/theravi04/MovieVerse/static/js/main.108d7dbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a119cd7.css",
+    "static/js/main.108d7dbf.js"
+  ]
+}
